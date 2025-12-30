@@ -1,4 +1,4 @@
-![so_long](https://github.com/Jujufinote/42-project-badges/blob/main/covers/cover-so_long.png)
+![so_long](https://github.com/Jujufinote/42-project-badges/blob/main/covers/cover-so_long-bonus.png)
 <br>
 <br>
 
