@@ -12,8 +12,9 @@
     - [Compiling](#compiling-)
     - [Cleaning](#cleaning-)
     - [In game](#in-game-)
-  - [Ressources](#ressources-)
+  - [🗃️ Ressources](#%EF%B8%8F-ressources-)
 </details>
+<br>
 
 ## Preface
 This project has been created as a part of the 42 curriculum by jverdier, aka me. You'll learn to use your first graphic library and key management at the same time as having fun by creating your first 2D mini game. You choose all the atmosphere. <br>
@@ -72,7 +73,7 @@ To close the game use the window cross or press <kbd>Esc</kbd>. <br>
 
 ---
 
-## Ressources :
+## 🗃️ Ressources :
 
 - [itch.io](https://itch.io)
 - [minilibx documentation](https://harm-smits.github.io/42docs/libs/minilibx)
