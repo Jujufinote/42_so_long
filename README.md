@@ -3,7 +3,7 @@
 <br>
 
 ## Preface
-Another required project of 42school. You'll learn to use your first graphic library and key management at the same time as having fun by creating your first 2D mini game. You choose all the atmosphere. <br>
+This project has been created as a part of the 42 curriculum by jverdier, aka me. You'll learn to use your first graphic library and key management at the same time as having fun by creating your first 2D mini game. You choose all the atmosphere. <br>
 <br>
 
 ## 📜 Mandatory part
@@ -13,6 +13,16 @@ We need to manage window rendering, read a map and create the game algorithm inc
 ## ✅ Bonus part
 You need to add ennemies, moving or not. Touching them makes you loose the game. You alse need to add sprite animations and display the number of character's mouvment. <br>
 <br>
+
+<details>
+  <summary><strong>⫶☰ Summary</strong></summary>
+  
+  - [⚙️ How to use](#how-to-use)
+    - [Compiling](#compiling)
+    - [Cleaning](#cleaning)
+    - [In game](#in-game)
+  - [Ressources](#ressources)
+</details>
 <br>
 
 ---
@@ -24,14 +34,12 @@ You need to add ennemies, moving or not. Touching them makes you loose the game.
 > PLEASE LEARN AND MAKE YOUR OWN
 
 ### Compiling :
-
 To build the basic project, do
 ```Shell
 make all
 ```
 after cloning the repo and changing directory into So long where the Makefile is. <br>
 <br>
-
 To build the project with bonus features, do 
 ```Shell
 make bonus
@@ -40,7 +48,6 @@ make bonus
 
 
 ### Cleaning :
-
 To clean object files, do
 ```Shell
 make clean
@@ -55,6 +62,14 @@ make fclean
 
 
 ### In game :
-
 Use basic directionnal commands <kbd>W</kbd>,<kbd>A</kbd>,<kbd>S</kbd>,<kbd>D</kbd>. <br>
-To close the game use the window cross or press <kbd>Esc</kbd>.
+To close the game use the window cross or press <kbd>Esc</kbd>. <br>
+<br>
+<br>
+
+---
+
+## Ressources :
+
+- [itch.io](https://itch.io)
+- [minilibx documentation](https://harm-smits.github.io/42docs/libs/minilibx)
