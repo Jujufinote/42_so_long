@@ -2,6 +2,19 @@
 <br>
 <br>
 
+<details>
+  <summary><strong>⫶☰ Summary</strong></summary>
+
+  - [Preface](#preface)
+  - [📜 Mandatory part](#-mandatory-part)
+  - [✅ Bonus part](#-bonus-part)
+  - [⚙️ How to use](#%EF%B8%8F-how-to-use-)
+    - [Compiling](#compiling-)
+    - [Cleaning](#cleaning-)
+    - [In game](#in-game-)
+  - [Ressources](#ressources-)
+</details>
+
 ## Preface
 This project has been created as a part of the 42 curriculum by jverdier, aka me. You'll learn to use your first graphic library and key management at the same time as having fun by creating your first 2D mini game. You choose all the atmosphere. <br>
 <br>
@@ -13,16 +26,6 @@ We need to manage window rendering, read a map and create the game algorithm inc
 ## ✅ Bonus part
 You need to add ennemies, moving or not. Touching them makes you loose the game. You alse need to add sprite animations and display the number of character's mouvment. <br>
 <br>
-
-<details>
-  <summary><strong>⫶☰ Summary</strong></summary>
-  
-  - [⚙️ How to use](#%EF%B8%8F-how-to-use-)
-    - [Compiling](#compiling-)
-    - [Cleaning](#cleaning-)
-    - [In game](#in-game-)
-  - [Ressources](#ressources-)
-</details>
 <br>
 
 ---
