@@ -17,11 +17,11 @@ You need to add ennemies, moving or not. Touching them makes you loose the game.
 <details>
   <summary><strong>⫶☰ Summary</strong></summary>
   
-  - [⚙️ How to use](#how-to-use)
-    - [Compiling](#compiling)
-    - [Cleaning](#cleaning)
-    - [In game](#in-game)
-  - [Ressources](#ressources)
+  - [⚙️ How to use](#%EF%B8%8F-how-to-use-)
+    - [Compiling](#compiling-)
+    - [Cleaning](#cleaning-)
+    - [In game](#in-game-)
+  - [Ressources](#ressources-)
 </details>
 <br>
 
